@@ -1,0 +1,19 @@
+Crear una aplicación en C# sobre Artistas, Álbumes y Canciones
+
+Artista:
+- Tiene nombre, genero, país, estado.
+- Un artista tiene muchos álbumes, y dentro de cada álbum hay muchas canciones.
+
+Album: 
+- Tiene: Titulo, año de lanzamiento, duración total.
+- Un álbum puede tener muchas canciones.
+
+Canción:
+- Tiene: Titulo, duración, plataforma. 
+
+Reportes:
+- Listar las canciones de un album con mayor duración.
+- Listar los álbumes de un artista con mayor duración.
+- Listar las canciones que se encuentren en YoutubeMusic.
+
+Realizar las validaciones correspondientes.
